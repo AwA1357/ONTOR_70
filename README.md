@@ -1,2 +1,3 @@
 # ONTOR_70
-Hack mobile data 
+cd ONTOR 
+python ONTOR.py
